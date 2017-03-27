@@ -34,7 +34,7 @@ PetitePageProgress.start({
 });
 ```
 
-## Extras...or less
+## Extras...but actually less
 
 There is a simple version of the plugin too that has less functionality and less bloat.
 
