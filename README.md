@@ -7,7 +7,7 @@ Simple little page scroll progress just because it's nice to build things.
 Include the JavaScript in the footer and attach scroll progress to document body:
 
 ```html
-<script type="text/javascript" src="PetitePageProgress.js"></script>
+<script src="PetitePageProgress.js"></script>
 ```
 ```js
 PetitePageProgress.start('body');
@@ -43,7 +43,7 @@ It allows you to attach to the document body or a selector, but only provides th
 Include the basic JavaScript fil and attach scroll progress to document body, then chain the color function:
 
 ```html
-<script type="text/javascript" src="PetitePageProgressBasic.js"></script>
+<script src="PetitePageProgressBasic.js"></script>
 ```
 ```js
 PetitePageProgressBasic.start('body').color('#7d9e79');
