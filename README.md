@@ -2,6 +2,8 @@
 
 Simple little page scroll progress just because it's nice to build things.
 
+No plugins, no preprocessors, no transpilers, no npm, no frameworks no fluff. Just simple HTML/CSS and some vanilla JavaScript.
+
 ## Getting started
 
 Include the JavaScript in the footer and attach scroll progress to document body:
