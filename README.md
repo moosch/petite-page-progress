@@ -25,12 +25,12 @@ Note that you will need to include the selector as a parameter too. Like so:
 
 ```js
 PetitePageProgress.start({
-	container:'.container',
-	styles: {
-		backgroundColor:'#566c9e',
-		height:'10px',
-		boxShadow: '1px 1px 1px rgba(0,0,0,0.3)'
-	}
+  container:'.container',
+  styles: {
+    backgroundColor:'#566c9e',
+    height:'10px',
+    boxShadow: '1px 1px 1px rgba(0,0,0,0.3)'
+  }
 });
 ```
 
