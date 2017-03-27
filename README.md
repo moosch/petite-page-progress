@@ -29,7 +29,7 @@ PetitePageProgress.start({
 	styles: {
 		backgroundColor:'#566c9e',
 		height:'10px',
-    boxShadow: '1px 1px 1px rgba(0,0,0,0.3)'
+		boxShadow: '1px 1px 1px rgba(0,0,0,0.3)'
 	}
 });
 ```
