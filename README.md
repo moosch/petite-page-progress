@@ -51,9 +51,7 @@ PetitePageProgressBasic.start('body').color('#7d9e79');
 
 ### License
 
-PetitePageProgress is MIT License licensed
-
-#### MIT License
+PetitePageProgress is MIT Licensed
 
 Copyright (c) 2017 @moosch
 
